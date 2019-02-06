@@ -4,7 +4,7 @@
         type: "STU-3",
 
         // Api URL
-        url: "https://sb-fhir-stu3.smarthealthit.org/smartstu3/open",
+        url: "https://smarthospitalfhirserversite.azurewebsites.net/hapi-fhir-jpaserver-example/baseDstu3",
 
         // The pre-populated tags in the tag selector
         tags: [
