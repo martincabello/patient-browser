@@ -1,7 +1,7 @@
 {
     server: {
         type: "STU-3",
-        url: "https://r3.smarthealthit.org",
+        url: "https://smarthospitalfhirserversite.azurewebsites.net/hapi-fhir-jpaserver-example/baseDstu3",
         tags: [
             {
                 key  : "pro-7-2017",
